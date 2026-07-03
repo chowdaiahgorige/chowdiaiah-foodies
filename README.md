@@ -2,7 +2,7 @@
 
 A modern and fully responsive **Food Ordering Website** built with pure HTML, CSS & JavaScript.
 
-![Project Banner](screenshot-main.png)
+![Project Banner](Screenshot 2026-07-04 033213.png)
 
 ## ✨ Features
 
